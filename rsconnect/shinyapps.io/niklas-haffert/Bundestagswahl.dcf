@@ -1,0 +1,13 @@
+name: Bundestagswahl
+title: Bundestagswahl
+username:
+account: niklas-haffert
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4949208
+bundleId: 5174899
+url: https://niklas-haffert.shinyapps.io/Bundestagswahl/
+when: 1635172525.07113
+lastSyncTime: 1635172525.07116
+asMultiple: FALSE
+asStatic: FALSE
